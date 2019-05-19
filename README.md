@@ -1,4 +1,4 @@
-# ikjs.js.org
+# ik.js.org
 JS web
 
 Vuejs
